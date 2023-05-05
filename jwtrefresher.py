@@ -1,4 +1,4 @@
-# planning to add separate refresh argument
+# planning to add separate refresh argument, fixing proxy error, and more
 
 import sys
 import requests
